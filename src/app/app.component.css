@@ -1,0 +1,8 @@
+gridster {
+  background-color: white;
+}
+
+gridster-item {
+  border-radius: 5px;
+  border-style: solid;
+}
